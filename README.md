@@ -1,6 +1,6 @@
 # Opinionated List of Open Source Tools
 
-There is a big difference between a free service and open source. For example GSuite is free to use for personal usage. But the software is not open source at all.
+There is a big difference between a free service and open source. For example GSuite is free for personal usage. But the software is not open source at all.
 
 Most people don't care, but I do.
 
