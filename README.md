@@ -12,6 +12,7 @@ If possible I prefer open source solutions.
 * Make images smaller using best-in-class codecs, right in the browser: [squoosh.app](https://squoosh.app/)
 * Virtual whiteboard for sketching hand-drawn like diagrams [excalidraw](https://github.com/excalidraw/excalidraw)
 * http API Client (Web GUI): [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
+* [LimeSurvey](https://www.limesurvey.org/de/)
 
 # Native Apps
 * Offline Maps and Navigation [Osmand](https://osmand.net/)
