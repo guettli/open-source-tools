@@ -13,6 +13,7 @@ If possible I prefer open source solutions.
 * Virtual whiteboard for sketching hand-drawn like diagrams [excalidraw](https://github.com/excalidraw/excalidraw)
 * http API Client (Web GUI): [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 * [LimeSurvey](https://www.limesurvey.org/de/)
+* [VTracer](https://www.visioncortex.org/vtracer/) Convert PNG to SVG.
 
 # Native Apps
 * Offline Maps and Navigation [Osmand](https://osmand.net/)
