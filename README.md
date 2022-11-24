@@ -14,6 +14,7 @@ If possible I prefer open source solutions.
 * http API Client (Web GUI): [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 * [LimeSurvey](https://www.limesurvey.org/de/)
 * [VTracer](https://www.visioncortex.org/vtracer/) Convert PNG to SVG.
+* [mermaid (text based diagramming and charting tool) LiveEditor](https://mermaid.live/)
 
 # Native Apps
 * Offline Maps and Navigation [Osmand](https://osmand.net/)
